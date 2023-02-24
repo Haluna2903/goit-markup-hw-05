@@ -552,6 +552,8 @@ img {
 .btn-modal {
   position: absolute;
 
+  cursor: pointer;
+
   top: 24px;
   right: 24px;
 
